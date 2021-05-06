@@ -1,5 +1,6 @@
 # react-native-video-calling-app
 Video calling app sample with React Native using ``react-native-webrtc``, ``react-native-peerjs`` and ``socket.io`` for signaling.
 
-## Demo
-![ezgif-6-61c993f62897](https://user-images.githubusercontent.com/43188732/104811931-f0a48680-580f-11eb-941d-c7810cb78811.gif)
+Just go to server folder. Fill in your server (host,port,path and url)
+Done...
+Build the release apk and you are ready to go.
